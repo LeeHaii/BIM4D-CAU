@@ -796,7 +796,8 @@ PlayerSettings:
   webWasm2023: 1
   webEnableSubmoduleStrippingCompatibility: 0
   webProgressiveAssetLoading: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: PIXYZ_2021_1_OR_NEWER;PXZ_CUSTOM_DLL_PATH;PIXYZ_RULE_ENGINE;PIXYZ_2020_2_OR_NEWER;PIXYZ_2020_2;PIXYZ_2020_1_OR_NEWER;PIXYZ_2020_1;PIXYZ_2019_2_OR_NEWER;PIXYZ_2019_2;PIXYZ
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
